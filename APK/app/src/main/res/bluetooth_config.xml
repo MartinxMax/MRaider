@@ -1,0 +1,4 @@
+<resources>
+    <string name="device_address">00:11:22:33:44:55</string>
+    <string name="uuid_serial_port_profile">00001101-0000-1000-8000-00805F9B34FB</string>
+</resources>
